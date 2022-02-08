@@ -23,7 +23,7 @@ email: julianvv2000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog voor alle progressie gemaakt tijdens de "The Next Web" minor aan het NHL Stenden te Leeuwarden.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "blog.julianvanveen.nl" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.julianvanveen.nl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Julianvveen
 github_username:  julianvv
 
