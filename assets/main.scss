@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.about-me-wrapper{
+	//SM
+	display: grid;
+	row-gap: 10px;
+	@media screen and (min-width: 768px) {
+		grid-template-columns: 3fr 1fr;
+	}
+	@media screen and (min-width: 992px) {
+		grid-template-columns: 2fr 1fr;
+	}
+}
+
+a.source {
+	color: #828282;
+}
+
+a:hover.source {
+	color: #828282
+}
+
