@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Pitch van De Bibliotheek Zuid-Kennemerland"
-date:   2022-02-08 12:18:57 +0100
+date:   2022-02-04 18:24:43 +0100
 categories: jekyll update
 permalink: /bibliotheek-pitch/
+excerpt: "Op maandag 7 Februari 2022 kregen wij een pitch/presentatie van twee medewekers van de Bibliotheek Zuid-Kennemerland. 
+Deze twee medewerkers waren Aureen Harthoorn, verantwoordelijk voor Educatie en Mart Riepma, verantwoordelijk voor markt en communicatie van de bibliotheek. Zij kwamen ons inlichten over het probleem en hadden al een mogelijke oplossing hiervoor die wij konden uitwerken."
 ---
 
 ![foto bibliotheek](/assets/img/Bibliotheek_Doelenplein_Haarlem.jpg)
