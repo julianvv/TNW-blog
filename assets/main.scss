@@ -15,6 +15,37 @@
 	}
 }
 
+div.flex {
+	display: flex;
+}
+
+div.flex-row {
+	flex-direction: row;
+}
+
+div.flex-col {
+	flex-direction: column;
+}
+
+div.text-center {
+	text-align: center;
+}
+
+div.justify-around {
+	justify-content: space-around;
+}
+
+div.items-center {
+	align-items: center;
+}
+
+img.concepting-image {
+	border: solid #ccc;
+	border-width: 3px;
+	width:75%;
+	height:auto;
+}
+
 p.image-description {
 	color: #828282;
 }
