@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Concepting"
-date: 2022-02-08 16:24:23 +0100
+date: 2022-02-16 16:24:23 +0100
 categories: update
 permalink: /concepting/
 ---
