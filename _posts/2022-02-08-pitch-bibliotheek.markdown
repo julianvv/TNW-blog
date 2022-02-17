@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pitch van De Bibliotheek Zuid-Kennemerland"
-date:   2022-02-04 18:24:43 +0100
+date:   2022-02-07 17:00:00 +0100
 categories: jekyll update
 permalink: /bibliotheek-pitch/
 excerpt: "Op maandag 7 Februari 2022 kregen wij een pitch/presentatie van twee medewekers van de Bibliotheek Zuid-Kennemerland. 
