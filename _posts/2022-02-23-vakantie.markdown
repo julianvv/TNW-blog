@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Vakantie"
+date: 2022-02-23 15:00:00 +0100
+categories: update
+permalink: /vakantie/
+---
+
+Deze week is het voorjaarsvakantie. Genieten! 🎊
+
+Deze week zou ik onderzoeken wat ik graag voor skill wou leren. Ik heb besloten volgende week bezig te gaan met VueJS.
+Omdat ik graag beter wil worden in front-end development denk ik dat dit een slimme keuze is. In VueJS kun je een front-end koppelen met javascript code waardoor het heel gemakkelijk "reactive" gemaakt kan worden. Ik heb al eerder ervaring opgedaan met React daarmee wou ik deze keer VueJS een kans geven.
+
+<div class="flex flex-row justify-around">
+	<div class="flex flex-col items-center">
+		<img src="/assets/img/react.png" alt="Logo React Framework"/>
+		<p class="image-description">React</p>
+	</div>	
+	<div class="flex flex-col items-center">
+		<img src="/assets/img/vuejs.png" alt="Logo Vue JS" height="auto" width="50%" />
+		<p class="image-description">VueJS</p>
+	</div>
+</div>

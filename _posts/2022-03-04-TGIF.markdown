@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Thank god it's friyay"
+date: 2022-03-04 15:00:00 +0100
+categories: update
+permalink: /TGIF/
+---
+
+Thank god it's friday! (TGIF)
+
+Tijdens TGIF is het de bedoeling dat iedereen met een eigen gekozen project bezig gaat. Mijn project zal aansluiten bij de skill die ik afgelopen week geleerd heb, VueJS. Als project had ik het idee om een front-end te bouwen in Vue die gebruik maakt van de Riot Games API. Deze API bied inzicht in afgelopen matches van de games League of Legends en Valorant. Mijn doel is in eerste instantie dat de gebruiker zijn eigen gebruikersnaam kan invullen en hiervan de laatste 10 matches getoond worden.
+
+Dit idee kan later uitgebreider worden met bijvoorbeeld champion informatie met actuele statistieken verkregen via de API. In feite dus een front-end voor de Riot Game API.
