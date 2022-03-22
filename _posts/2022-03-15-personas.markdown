@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Deeltaxi Persona's"
+date: 2022-03-15 15:00:00 +0100
+categories: update
+permalink: /deeltaxi-personas/
+---
+
+Omdat de deeltaxi met een WMO-pas ruim 3 keer zo goedkoop is verwachten wij dat vooral ouderen met de deeltaxi zullen reizen. Zo een WMO (Wet maatschappelijke ondersteuning) pas is speciaal voor ouderen, chronisch zieken en mensen met een beperking. Als onderdeel van onderzoek en ons te verplaatsen in de doelgroep hebben wij een aantal interview vragen genoteerd die wij aan willekeurige mensen uit de doelgroep gesteld hebben op straat. 
+
+<h2>De vragen</h2>
+De vragen waren: 
+ 1. Maakt u gebruik van computers, tablets of smartphones?
+ 2. Zoja, heeft u dan moeite het lezen van teksten op een scherm?
+ 3. Gaat u wel eens met de taxi?
+ 4. Als u een afspraak maakt (voor bijv. de taxi of een ziekenhuisafspraak) doet u dat dan liever online of telefonisch?
+ 5. Kunt u de weg vinden op een website als u online een afspraak zou moeten maken?
+ 6. Gebruikt u wel eens het OV? (Gebruikt u dan 9292 of NS Reisplanner?)
+
+ <h2>Resultaten</h2>
+ Persoon 1: Anita (72) Gebruikt soms het OV als ze naar Amsterdam reist, maar ze gebruikt nooit een taxi. Ze kan goed overweg met websites en gebruikt dus ook de online reservering-tool op websites zoals die van NS en de huisarts. Los van het feit dat Anita een leesbril gebruikt, heeft ze geen moeite met lezen. Ze hoeft de letters op websites niet te vergroten en hoeft dus ook geen voorleestool te gebruiken. Ze heeft wel een voorkeur voor telefonisch afspraken maken. 
+
+Persoon 2: Trees (81) gaat niet zo vaak op reis. Ze wandelt veel buiten met haar rollator en vriendin Anita. Ze heeft een laptop voor internet bankieren en haar (klein)zoon heeft haar geholpen met het inzoomen van de websites en heeft het lettertype vergroot. Trees gebruikt de taxi van VVO voor het vervoer naar het ziekenhuis mocht zij daar afspraken hebben. Ook vond zij Engelse woorden verwarrend. Laatst kreeg zij namelijk een melding over haar “data” en wist zij niet wat dit betekende. 
+
+Persoon 3: Johannes (76) heeft een zoon van 25 in de buurt die altijd kan helpen. Hij rijdt auto en gebruikt dus geen OV of Taxi’s. Online navigeren vindt hij geen probleem. Recentelijk is hij verhuist van Franeker naar Leeuwarden. Zijn nieuwe huisarts in Leeuwarden heeft hij gebeld voor inschrijving omdat dat online niet mogelijk was. 
+
+Persoon 4: Els (68) gaf aan geen enkel verstand van computers te hebben. Ze gebruikt enkel een telefoon voor bellen. Online doet zij eigenlijk niets anders dan een telefoonnummer opzoeken. Ze reist zo nu en dan met het OV, dit zoekt zij echter niet digitaal op, ze weet de dienstregeling van de bus die zij gebruikt uit haar hoofd. 
+
+Persoon 5: Gerda (71) gebruikt een telefoon en computer. Ze reist niet met de taxi of met het OV. Als ze een afspraak moet maken bij de dokter (ziekenhuis of huisarts) doet zij dit het liefst telefonisch. 
+
+<h2>Wat heb ik geleerd deze week?</h2>
+Door middel van deze interviews hebben wij ons goed kunnen inleven in de doelgroep van deeltaxi West-Brabant. Met deze informatie kunnen wij een goed persona maken om de nieuwe website voor te ontwikkelen.
+Ik heb deze week geleerd dat je voor een interview duidelijke vragen moet bedenken maar dat je ook vragen nodig hebt om door te vragen op bepaalde antwoorden. Tijdens de interviews kwamen wij er achter dat we niet heel veel vragen hadden. Ik stelde de vragen en Tijn noteerde de antwoorden waarna wij dat samen hebben omgezet tot kleine verhaaltjes.

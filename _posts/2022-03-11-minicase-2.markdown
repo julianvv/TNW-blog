@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Minicase 2"
+date: 2022-03-11 14:32:04 +0100
+categories: update
+permalink: /minicase-2/
+---
+
+Week 1 van de tweede minicase zit er op. Deze week bezochten wij de blokhuispoort voor twee presentaties. Deze presentaties werden gegeven door Stichting accessibility die aantoonde hoe belangrijk het is dat een website goed gestructureerd en volledig is voor toegankelijkheid. Dit deden zij door het live te demonstreren wat knelpunten zijn voor iemand die een screenreader gebruikt. In dit geval werd dit gedaan door Renzo die langzaam blind geworden is en daarom nu niets meer ziet. Vroeger heeft hij zelf ook websites gemaakt dus hij had wel enige voorkennis.
+
+De tweede presentatie werd gehouden door [Leo Flapper](https://wefabric.nl/over-ons/leo-flapper/), een medewerker van WeFabric. Hij liet een project zien waar zij momenteel mee bezig zijn van hun klant Wensk. Hier toonde hij dat ze goed rekening hielden met contrast voor slechtziende. Maar ook voor mensen met beperkte motoriek was de website goed bruikbaar door highlighting van gefocuste links, buttons etc. Waardoor gemakkelijk met de `tab` toets genavigeerd kan worden.
+
+Na deze presentaties werden nieuwe groepjes bekend gemaakt. Met dit groepje was het de bedoeling een website uit te zoeken uit het [Register van toegankelijkheids­verklaringen](https://www.toegankelijkheidsverklaring.nl/register). Hier staan alle websites van overheidsinstanties in die getest worden op toegankelijkheid. Vanaf 2025 dienen al deze websites te voldoen aan minimaal AA niveau van de [WCAG](https://www.w3.org/WAI/WCAG21/quickref/) beoordeling. Na het raadplegen van het registeren hebben wij gekozen voor de website van Deeltaxi West-Brabant. 
+
+<img src="/assets/img/website-deeltaxi.png" alt="De huidige website van deeltaxi West-Brabant" />
+<p class="image-description">De huidige website van deeltaxi West-Brabant</p>
+
+Zoals te zien is op de afbeelding is er op de website van deeltaxi West-Brabant gebruik gemaakt van veel kleuren en is het contrast daardoor niet optimaal. Ook valt er niet duidelijk door heen te "tabben" met de `tab` key aangezien er geen visuele feedback is waar de focus op ligt op de pagina. Deze week hebben wij de WCAG eisen doorgenomen en volgende week zullen wij een wireframe maken van een redesign.
+
+<h2>Geleerd deze week</h2>
+Deze week heb ik geleerd dat toegankelijkheid belangrijker is dan ik dacht en dat heel veel al opgelost kan worden door aan conventies te voldoen. Als HTML elementen juist gebruikt worden scheelt dit al een hoop. Dat gaat dan bijvoorbeeld om `button` en `a` tags. Bij `img` tags is het bijvoorbeeld van belang aria labels toe te voegen die voorgelezen kunnen worden door een screenreader zodat iemand die blind is of slechtziend kan horen wat er op de pagina voor komt.
